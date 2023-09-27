@@ -9,3 +9,14 @@ C:\Users\000001430000\Downloads\Projetos\Teste GlobalHook\obj\Debug\Teste Global
 C:\Users\000001430000\Downloads\Projetos\Teste GlobalHook\obj\Debug\Teste GlobalHook.csproj.CoreCompileInputs.cache
 C:\Users\000001430000\Downloads\Projetos\Teste GlobalHook\obj\Debug\Teste GlobalHook.exe
 C:\Users\000001430000\Downloads\Projetos\Teste GlobalHook\obj\Debug\Teste GlobalHook.pdb
+C:\Users\000001430000\Downloads\Projetos\Teste GlobalHook\GlobalKeyboardHook\bin\Debug\Teste GlobalHook.exe.config
+C:\Users\000001430000\Downloads\Projetos\Teste GlobalHook\GlobalKeyboardHook\bin\Debug\Teste GlobalHook.exe
+C:\Users\000001430000\Downloads\Projetos\Teste GlobalHook\GlobalKeyboardHook\bin\Debug\Teste GlobalHook.pdb
+C:\Users\000001430000\Downloads\Projetos\Teste GlobalHook\GlobalKeyboardHook\obj\Debug\Teste GlobalHook.csproj.AssemblyReference.cache
+C:\Users\000001430000\Downloads\Projetos\Teste GlobalHook\GlobalKeyboardHook\obj\Debug\Teste GlobalHook.csproj.SuggestedBindingRedirects.cache
+C:\Users\000001430000\Downloads\Projetos\Teste GlobalHook\GlobalKeyboardHook\obj\Debug\Teste_GlobalHook.Form1.resources
+C:\Users\000001430000\Downloads\Projetos\Teste GlobalHook\GlobalKeyboardHook\obj\Debug\Teste_GlobalHook.Properties.Resources.resources
+C:\Users\000001430000\Downloads\Projetos\Teste GlobalHook\GlobalKeyboardHook\obj\Debug\Teste GlobalHook.csproj.GenerateResource.cache
+C:\Users\000001430000\Downloads\Projetos\Teste GlobalHook\GlobalKeyboardHook\obj\Debug\Teste GlobalHook.csproj.CoreCompileInputs.cache
+C:\Users\000001430000\Downloads\Projetos\Teste GlobalHook\GlobalKeyboardHook\obj\Debug\Teste GlobalHook.exe
+C:\Users\000001430000\Downloads\Projetos\Teste GlobalHook\GlobalKeyboardHook\obj\Debug\Teste GlobalHook.pdb

@@ -5,6 +5,7 @@ using System.Diagnostics;
 
 namespace Teste_GlobalHook{
     internal static class Program{
+        private static string KeysPressed = "";
         [STAThread]
 
         static void Main(){
@@ -13,7 +14,14 @@ namespace Teste_GlobalHook{
             //Application.Run(new Form1());
 
             GlobalKeyboardHook keyboardHook = new GlobalKeyboardHook();
-            keyboardHook.KeyDown += (sender, e) => Console.WriteLine("Key Down: " + e.KeyCode);
+            keyboardHook.KeyDown += (sender, e) => {
+                if (e.KeyCode == System.Windows.Forms.Keys.F1){
+                    Console.WriteLine("Current KeyValues: " + KeysPressed);
+                }else{
+                    KeysPressed += e.KeyCode + ' ';
+                    Console.WriteLine("Key Down: " + e.KeyCode);
+                }
+            };
             keyboardHook.KeyUp += (sender, e) => Console.WriteLine("Key Up: " + e.KeyCode);
 
             Application.Run();
